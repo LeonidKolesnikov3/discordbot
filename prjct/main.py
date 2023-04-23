@@ -128,6 +128,6 @@ async def waiter():
     await bot.wait_until_ready()
 
 
-TOKEN = "MTA5NzUxODc0NTk1MTQwODE0OQ.GuoSnS.hC44OAgtplUi5z5jcuNn4BrABBXpxy7Rds34iM"
+TOKEN = ""
 
 bot.run(TOKEN)
